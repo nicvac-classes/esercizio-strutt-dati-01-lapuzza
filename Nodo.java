@@ -1,0 +1,10 @@
+//Implementa qui la classe Nodo
+public class Nodo<T>{
+    public T dato;
+    public Nodo<T> next;
+
+    public Nodo(T dato){
+        this.dato = dato;
+        this.next = null;
+    }
+}
