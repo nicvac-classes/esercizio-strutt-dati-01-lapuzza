@@ -1,7 +1,7 @@
 //LEGGERE LE ISTRUZIONI NEL FILE README.md
 
 //Import di Classi Java necessarie al funzionamento del programma
-import java.util.List;
+
 import java.util.Scanner;
 
 // Classe principale, con metodo main
